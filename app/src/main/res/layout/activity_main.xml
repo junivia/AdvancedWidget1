@@ -4,6 +4,5 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="id.sch.smktelkom_mlg.learn.advancedwidget1.MainActivity">
-
+    android:id="@+id/linearLayoutMain">
 </LinearLayout>
