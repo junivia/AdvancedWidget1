@@ -14,4 +14,4 @@ ________________________________________________________________________________
  
   NIS : 4282/1180.063
  
-  Nama Sekolah : SMK TELKOM MALAN
+  Nama Sekolah : SMK TELKOM MALANG
